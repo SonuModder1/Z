@@ -27,7 +27,7 @@ function log(string) {
 */
 
 const addons = {
-    cloudflare: './cloudflare.js',
+    cloudflare: './hoangbodien/cloudflare.js',
     
 };
 
